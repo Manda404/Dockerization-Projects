@@ -1,6 +1,6 @@
 # test/test_main.py
 
-from app.main import add, subtract
+from appl.main import add, subtract
 
 def test_add():
     """Test de la fonction add."""
